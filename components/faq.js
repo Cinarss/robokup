@@ -51,12 +51,7 @@ const faqdata = [
 		answer:
 			"Roboküp, manyetik pogopinler sayesinde kablosuz olarak bağlanan küp formunda hücrelerden oluşur. Her hücre farklı sensörler içerir ve bu hücreler manyetik kuvvetle birleşerek elektriksel iletişimi sağlar. Kullanıcılar bu hücreleri birleştirerek çeşitli projeler gerçekleştirebilir.",
 	},
-	{
-		question:
-			'Is the app compatible with different devices and operating systems?',
-		answer:
-			'Yes, our team building app is designed to be compatible with various devices and operating systems. It is accessible via web browsers and offers dedicated mobile apps for both iOS and Android devices, ensuring a seamless user experience across different platforms.',
-	},
+
 	{
 		question: 'Roboküp seti ile hangi projeleri yapabilirim?',
 		answer:
